@@ -1,10 +1,10 @@
 # Hello 👋, I'm Gabriel Cardoso
 ### Full Stack Developer
-I'm a Junior Full Stack Developer based in Sacramento, California. My background is a bit unconventional: I spent a long time as a tattoo artist, which gave me a keen eye for detail, aesthetics, and user experience.
+I'm a Junior Full Stack Developer based in Groningen, Netherlands . My background is a bit unconventional: I spent a long time as a tattoo artist, which gave me a keen eye for detail, aesthetics, and user experience.
 
 Today, I translate that artistic vision into code, focusing on creating fluid and functional interfaces. Currently, I'm diving headfirst into the React Native ecosystem to bring my skills to the mobile world.
 
-🌍 Origin: Brazilian, 25 years old, experiencing the journey of learning and building in the USA.
+🌍 Origin: Brazilian, 25 years old, experiencing the journey of learning and building.
 
 In my free time, you can find me playing guitar, discovering some random fact about the world, or playing games on my PC.
 
