@@ -29,6 +29,11 @@ Hygi is a premium cleaning services marketplace that combines Airbnb's minimalis
 
 [View Project](https://github.com/gabemaldito/higimac.git)
 
+### RainBot
+
+A TypeScript bot that detects your real-time location and alerts you if rain is expected in the next 2 hours — powered by the Buienradar API.
+[View Project](https://github.com/gabemaldito/rain-bot)
+
 ---
 
 ## GitHub Stats
